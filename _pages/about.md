@@ -22,7 +22,16 @@ Hi all! I am currently an undergrad in Mechanical Engineering (Robotics) at Nort
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
+# 📖 Educations
+- *2022.09 - 2025.06 (now)* B.S. in Mechanical Engineering (Robotics), Northwestern University, Evanston, IL 
+- *2020.08 - 2022.05*, B.S. in Mechanical Engineering, UIUC, Urbana, IL
+
+# 💻 Internships
+- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA.
+- *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA.
+- *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL.
+
+<!-- # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Joined IDEAS Lab, Northwetsern. 
 - *2024.06*: &nbsp;🎉🎉 Started my interhsip at Ginkgo Bioworks - Mechatronics. 
 - *2024.01*: &nbsp;🎉🎉 Started my interhsip at Tesla - Power Electronics and Energy Product.
@@ -31,9 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09*: &nbsp;🎉🎉 Joined Bionics Lab, Shirley Ryan Abilitylab.  
 - *2022.09*: &nbsp;🎉🎉 Transferred to Northwestern University. 
 - *2021.07*: &nbsp;🎉🎉 Joined Human Dynamics and Control Lab, UIUC. 
-- *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC. 
+- *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC.  -->
 
-# 📝 Publications 
+# 📝 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,17 +58,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)* B.S. in Mechanical Engineering (Robotics), Northwestern University, Evanston, IL 
 - *2020.08 - 2022.05*, B.S. in Mechanical Engineering, UIUC, Urbana, IL
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA.
+- *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA.
+- *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL.
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
