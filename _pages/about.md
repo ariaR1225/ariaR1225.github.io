@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi all! I am currently an undergrad in Mechanical Engineering (Robotics) at Northwestern University. 
+Hi all! 😆🤓🤖
+
+I am currently an undergrad in Mechanical Engineering (Robotics) at Northwestern University. 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 📓 Educations
-- *2022.09 - 2025.06 (now)* B.S. in Mechanical Engineering (Robotics), Northwestern University, Evanston, IL 
+- *2022.09 - 2025.06*, B.S. in Mechanical Engineering (Robotics), Northwestern University, Evanston, IL 
 - *2020.08 - 2022.05*, B.S. in Mechanical Engineering, UIUC, Urbana, IL
 
 # 📨 Internships
@@ -32,9 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL.
 
 # 📏 Skills
-- *💻 Programming* Python, MATLAB, C/C++, SQL
-- *🪄 Dev Tools* Git, Linux, ROS Noetic, OpenCV, Pandas, TensorFlow, Pytorch, Tkinter
-- *🔩 Hardware* CAD, CAM, microcontroller, rapid prototyping, machine shop, measurement tools, soldering, PCB design
+- *💻 Programming*: Python, MATLAB, C/C++, SQL
+- *🪄 Dev Tools*: Git, Linux, ROS Noetic, OpenCV, Pandas, TensorFlow, Pytorch, Tkinter
+- *🔩 Hardware*: CAD, CAM, microcontroller, rapid prototyping, machine shop, measurement tools, soldering, PCB design
 
 <!-- # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Joined IDEAS Lab, Northwetsern. 
