@@ -19,7 +19,9 @@ redirect_from:
 
 Hi y'all! 😆🤓🤖
 
-I'm an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. Currently, my focus on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. Moving forward, I'm looking into opportunities in control software and system integration in related fields. 
+I'm Aria and this is my digital portfolio. It will cover most of my relavent works in Robotics, including past and ongoing research, projects, and internships. 
+
+Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. My focus at this point on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. Moving forward, I'm looking into opportunities in control software and system integration in related fields. 
 
 Looking forward to connecting and sharing ideas!
 
@@ -28,18 +30,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📓 Educations
-- *2022.09 - 2025.06*, B.S. in Mechanical Engineering (Robotics), certificate in HCI [Northwestern University, Evanston, IL ]
-- *2020.08 - 2022.05*, B.S. in Mechanical Engineering, minor in Informatics [UIUC, Urbana, IL]
+- *2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI [Evanston, IL]
+- *2020.08 - 2022.05*, **University of Illinois at Urbana Champaign (Transferred)** B.S. in Mechanical Engineering, minor in Informatics [Urbana, IL]
 
 # 📨 Internships
-- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA.
-- *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA.
-- *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL.
+- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA
+- *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
+- *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
 # 📏 Skills
-- *💻 Programming*: Python, MATLAB, C/C++, SQL
-- *🪄 Dev Tools*: Git, Linux, ROS Noetic, OpenCV, Pandas, TensorFlow, Pytorch, Tkinter
-- *🔩 Hardware*: CAD, CAM, microcontroller, rapid prototyping, machine shop, measurement tools, soldering, PCB design
+- *💻 Programming*: Python, MATLAB, C/C++, SQL, Golang
+- *🪄 Dev Tools*: Git, Linux, ROS 1&2PLC, OpenCV, TensorFlow, Pytorch, RoboDK, Tkinter, Docker
+- *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
 
 <!-- # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Joined IDEAS Lab, Northwetsern. 
@@ -99,10 +101,10 @@ integrated a circuit consisting of a power source and LEDs for computer vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control System</div><img src='assets/proj_img/2Rdemo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**2R Robot Impact Simulation** [Lagragian Dynamics, Impact, Python]
+**2R Robot Impact Simulation** [Lagragian Mechanics, Numerical Analysis, Python]
 - Modeled a rigid body (with elastic impact) inside a box handled by a 2R robot as an end effector via Lagrangian mechanics
 and RK4, and implemented gravity compensation due to mass of the links and joints of the robot with optimal control
-[GitHub](https://github.com/ariaR1225/NU_MECHE_314)
+- [View on GitHub](https://github.com/ariaR1225/NU_MECHE_314)
 </div>
 </div>
 
