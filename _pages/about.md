@@ -29,16 +29,16 @@ Looking forward to connecting and sharing ideas!
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 📓 Educations
+# Educations
 - *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI 
 - *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
-# 📨 Internships
+# Internships
 - *🍀 2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics and Automation, Emeryville, CA
 - *🚗 2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
 - *🦿 2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
-# 📏 Skills
+# Skills
 - *💻 Programming*: Python, MATLAB, C/C++, SQL, Golang
 - *🪄 Dev Tools*: Git, Linux, ROS 1&2PLC, OpenCV, TensorFlow, Pytorch, RoboDK, Tkinter, Docker
 - *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.07*: &nbsp;🎉🎉 Joined Human Dynamics and Control Lab, UIUC. 
 - *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC.  -->
 
-# 📝 Projects 
+# Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
