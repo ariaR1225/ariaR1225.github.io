@@ -75,7 +75,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [**Lower Limb Exoskeleton Transparency Control**]
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developed a test system for transparent haptics rendering on lower-limb exoskeleton using ROS Noetic
+- Evaluated and validated parameters for PID and IIR filter by generating Bode plot and shift in RMSE in Python
+- Achieved near zero output at human movement frequency with a less than 10ms delay in real-time
 </div>
 </div>
 
@@ -83,7 +85,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [**Line Following Robot**]
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Devised a path following robot based on ATmega32U4 for at 4m/s in low lighting condition
+- Tuned PID position controller based on IR sensors and PD speed controller based on encoder via trial-and-error, and attained an over 95% success rate
+- Established UART communication with ESP32 as a Wi-Fi module to receive command from a higher-level controller,
+integrated a circuit consisting of a power source and LEDs for computer vision
+
 </div>
 </div>
 
@@ -91,7 +97,18 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [**2R Robot Impact Simulation**]
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Modeled a rigid body (with elastic impact) inside a box handled by a 2R robot as an end effector via Lagrangian mechanics
+and RK4, and implemented gravity compensation due to mass of the links and joints of the robot with optimal control
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DFMA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CNC Milling Bracket Design and Manufacture**]
+- Redesigned a bracket for tool holder on a CNC mill, with material changed from steel to Nylon 12, meeting the requirement to remain in one piece, keep end deflection within 0.1mm when 100N force and, reduce more than 50% weight
+- Practiced GD&T in the bracket's engineering drawing which ensures manufacturing accuracy and consistency
+- Conducted FEA in Siemens NX stress and deflection, calculated bolt torque for fasteners, and then improved the design with features to address stress concentration according to the simulation
 </div>
 </div>
 
