@@ -93,7 +93,7 @@ integrated a circuit consisting of a power source and LEDs for computer vision
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control System</div><img src='asset/proj_img/2Rdemo-ezgif.com-crop.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control System</div><img src='asset/proj_img/2Rdemo.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **2R Robot Impact Simulation** [Lagragian Dynamics, Impact, Python]
