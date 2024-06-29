@@ -28,8 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📓 Educations
-- *2022.09 - 2025.06*, B.S. in Mechanical Engineering (Robotics), Northwestern University, Evanston, IL 
-- *2020.08 - 2022.05*, B.S. in Mechanical Engineering, UIUC, Urbana, IL
+- *2022.09 - 2025.06*, B.S. in Mechanical Engineering (Robotics), certificate in HCI [Northwestern University, Evanston, IL ]
+- *2020.08 - 2022.05*, B.S. in Mechanical Engineering, minor in Informatics [UIUC, Urbana, IL]
 
 # 📨 Internships
 - *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA.
@@ -84,7 +84,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embedded Control</div><img src='assets/proj_img/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embedded Control</div><img src='assets/proj_img/linefollow.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Line Following Robot** [Embedded C++, PID]
