@@ -102,7 +102,7 @@ and RK4, and implemented gravity compensation due to mass of the links and joint
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DFMA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DFMA</div><img src='assets/proj_img/bracket.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CNC Milling Bracket Design and Manufacture** [Siemens NX, FEA]
