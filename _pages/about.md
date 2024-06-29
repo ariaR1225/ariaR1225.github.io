@@ -19,24 +19,24 @@ redirect_from:
 
 Hi y'all! 😆🤓🤖
 
-I'm Aria and this is my digital portfolio. It will cover most of my relavent works in Robotics, including past and ongoing research, projects, and internships. 
+I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research, projects, and internships. 
 
 Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. My focus at this point on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. Moving forward, I'm looking into opportunities in control software and system integration in related fields. 
 
-Looking forward to connecting and sharing ideas!
+Looking forward to connecting and sharing ideas! 
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 📓 Educations
-- *2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI 
-- *2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
+- *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI 
+- *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # 📨 Internships
-- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics and Automation, Emeryville, CA
-- *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
-- *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
+- *🍀 2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics and Automation, Emeryville, CA
+- *🚗 2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
+- *🦿 2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
 # 📏 Skills
 - *💻 Programming*: Python, MATLAB, C/C++, SQL, Golang
