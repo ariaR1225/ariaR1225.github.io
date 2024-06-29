@@ -30,11 +30,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📓 Educations
-- *2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI [Evanston, IL]
-- *2020.08 - 2022.05*, **University of Illinois at Urbana Champaign (Transferred)** B.S. in Mechanical Engineering, minor in Informatics [Urbana, IL]
+- *2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI 
+- *2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # 📨 Internships
-- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics, Emeryville, CA
+- *2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics and Automation, Emeryville, CA
 - *2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
 - *2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
