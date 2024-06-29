@@ -19,7 +19,9 @@ redirect_from:
 
 Hi all! 😆🤓🤖
 
-I'm an undergraduate student majoring in Mechanical Engineering with a focus on Robotics at Northwestern University. My passion lies in the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. Currently, I'm engaged in projects on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. Looking forward to connecting and sharing ideas!
+I'm an undergraduate student majoring in Mechanical Engineering with a focus on Robotics at Northwestern University. My passion lies in the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. Currently, I'm engaged in projects on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. 
+
+Looking forward to connecting and sharing ideas!
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
