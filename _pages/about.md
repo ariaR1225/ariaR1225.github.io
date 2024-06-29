@@ -102,6 +102,7 @@ integrated a circuit consisting of a power source and LEDs for computer vision
 **2R Robot Impact Simulation** [Lagragian Dynamics, Impact, Python]
 - Modeled a rigid body (with elastic impact) inside a box handled by a 2R robot as an end effector via Lagrangian mechanics
 and RK4, and implemented gravity compensation due to mass of the links and joints of the robot with optimal control
+[GitHub](https://github.com/ariaR1225/NU_MECHE_314)
 </div>
 </div>
 
