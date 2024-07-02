@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Skills
 - *💻 Programming*: Python, MATLAB, C/C++, SQL, Golang
-- *🪄 Dev Tools*: Git, Linux, ROS 1&2PLC, OpenCV, TensorFlow, Pytorch, RoboDK, Tkinter, Docker
+- *🪄 Dev Tools*: Git, Linux, ROS 1&2, PLC, OpenCV, TensorFlow, Pytorch, RoboDK, Tkinter, Docker
 - *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
 
 <!-- # 🔥 News
@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-**Distributed Invariant Unscented Kalman Filter Based Target Tracking Algorithm** [Matrix Lie Group, Multi-agent SLAM, MATLAB]
+**Distributed Invariant Unscented Kalman Filter Based Target Tracking Algorithm** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
 <!-- (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - In Progress
 </div>
