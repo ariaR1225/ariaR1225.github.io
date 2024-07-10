@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-**Distributed Invariant Unscented Kalman Filter Based Target Tracking Algorithm** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
+**Distributed Invariant UKF Based Target Tracking with Inverse Covariance Intersection** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
 <!-- (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - In Progress
 </div>
