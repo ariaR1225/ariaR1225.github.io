@@ -79,6 +79,16 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/SRA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Planning and Control based on Vehicle Dynamics** [C++]
+- Implemented a Planning and Control algorithm based on vehicle dynamics to simulate and analyze vehicle behavior in complex driving scenarios such as overtaking, navigating crosswalks, and executing precise parking maneuvers
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/PNC.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 **Lower Limb Exoskeleton Transparency Control** [Python, ROS, Testing]
 - Developed a test system for transparent haptics rendering on lower-limb exoskeleton using ROS Noetic
 - Evaluated and validated parameters for PID and IIR filter by generating Bode plot and shift in RMSE in Python
