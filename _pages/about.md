@@ -72,7 +72,16 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 **Consistent Multi-Robot Cooperative Visual-Inertia-Odometry based on Lie Group** [Python, ROS, Multi-agent SLAM]
-- In Progress
+- In Progresss
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Search Algorithms</div><img src='assets/proj_img/Astar.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Search Algorithm Visualization** [C++]
+- Created a visualization tool for search algorithm including A*, Dijkstra and BFS with different types of distance measurement (Euclidean, Manhattan, Chebyshev)
+
 </div>
 </div>
 
