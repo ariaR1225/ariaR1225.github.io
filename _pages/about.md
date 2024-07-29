@@ -81,6 +81,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Search Algorithm Visualization** [C++]
 - Created a visualization tool for search algorithm including A*, Dijkstra and BFS with different types of distance measurement (Euclidean, Manhattan, Chebyshev)
+- [View on GitHub](https://github.com/ariaR1225/Search_Algorithm_Visualization)
 
 </div>
 </div>
@@ -90,6 +91,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Planning and Control based on Vehicle Dynamics** [C++]
 - Implemented a Planning and Control algorithm based on vehicle dynamics to simulate and analyze vehicle behavior in complex driving scenarios such as overtaking, navigating crosswalks, and executing precise parking maneuvers
+- [View on GitHub](https://github.com/ariaR1225/Vehicle_Dynamics_PnC)
 
 </div>
 </div>
