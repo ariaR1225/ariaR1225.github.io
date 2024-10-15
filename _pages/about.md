@@ -54,8 +54,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC.  -->
 
 # Publications 
+
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
 - [Paper Link](https://arxiv.org/abs/2409.17997)
+- Submitted to L-CSS and ACC
 
 # Projects
 
@@ -66,10 +68,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
-- To the best of our knowledge, most existing distributed UKFs operate only in vector spaces. In contrast, this paper extends UKF-based DSE methods to matrix Lie groups, allowing for state estimation and fusion in systems that evolve on Lie groups.
-- To properly handle the unknown cross-correlations between local estimates on Lie groups, we extend the ICI algorithm from vector spaces to Lie groups for the first time and integrate it into the diffusion-based framework. We also prove that the fused estimates for each agent are bounded in this work, a result not previously provided in the literature for solving DSE problems on Lie groups. 
-- The performance of the proposed method is validated through extensive Monte-Carlo simulations and compared to the CI-based fusion method, demonstrating superior accuracy.
+**Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
+- Proposed a target tracking algorithm for distributed time-variant system in 3D with invariant (using matrix Lie group and Lie algebra) UKF for distributed state estimation 
+- Applied Inverse Covariance Intersection sensor fusion algorithm as a consistent and less conservative method while
+handing unknown distributed covariance
+- Performed 50 trials of Monte-Carlo simulation at different communication rate (including centralized system) and calculated position and orientation RMSE to show algorithm is robust to time-varying communication topology
+
 </div>
 </div>
 
