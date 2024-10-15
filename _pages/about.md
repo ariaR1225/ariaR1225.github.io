@@ -63,7 +63,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
-(https://arxiv.org/abs/2409.17997)
+- Paper Link(https://arxiv.org/abs/2409.17997)
 - To the best of our knowledge, most existing distributed UKFs operate only in vector spaces. In contrast, this paper extends UKF-based DSE methods to matrix Lie groups, allowing for state estimation and fusion in systems that evolve on Lie groups.
 - To properly handle the unknown cross-correlations between local estimates on Lie groups, we extend the ICI algorithm from vector spaces to Lie groups for the first time and integrate it into the diffusion-based framework. We also prove that the fused estimates for each agent are bounded in this work, a result not previously provided in the literature for solving DSE problems on Lie groups. 
 - The performance of the proposed method is validated through extensive Monte-Carlo simulations and compared to the CI-based fusion method, demonstrating superior accuracy.
