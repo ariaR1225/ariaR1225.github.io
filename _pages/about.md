@@ -53,9 +53,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.07*: &nbsp;🎉🎉 Joined Human Dynamics and Control Lab, UIUC. 
 - *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC.  -->
 
-# Projects 
+# Publications 
+**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
+- [Paper Link](https://arxiv.org/abs/2409.17997)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Localization</div><img src='assets/proj_img/UKFICI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -63,14 +67,13 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
-- Paper Link(https://arxiv.org/abs/2409.17997)
 - To the best of our knowledge, most existing distributed UKFs operate only in vector spaces. In contrast, this paper extends UKF-based DSE methods to matrix Lie groups, allowing for state estimation and fusion in systems that evolve on Lie groups.
 - To properly handle the unknown cross-correlations between local estimates on Lie groups, we extend the ICI algorithm from vector spaces to Lie groups for the first time and integrate it into the diffusion-based framework. We also prove that the fused estimates for each agent are bounded in this work, a result not previously provided in the literature for solving DSE problems on Lie groups. 
 - The performance of the proposed method is validated through extensive Monte-Carlo simulations and compared to the CI-based fusion method, demonstrating superior accuracy.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='assets/proj_img/UKFICI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Consistent Multi-Robot Cooperative Visual-Inertia-Odometry based on Lie Group** [Python, ROS, Multi-agent SLAM]
