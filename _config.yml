@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhian (Aria) Ruan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MechE @Northwestern"
+  bio              : "Robotics @Northwestern"
   location         : "Evanston, US"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ariaR1225"
   google_plus      :
   keybase          :
   instagram        :
