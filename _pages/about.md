@@ -62,22 +62,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-**Distributed Invariant UKF Based Target Tracking with Inverse Covariance Intersection** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
-<!-- (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- In Progress
+**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
+(https://arxiv.org/abs/2409.17997)
+- To the best of our knowledge, most existing distributed UKFs operate only in vector spaces. In contrast, this paper extends UKF-based DSE methods to matrix Lie groups, allowing for state estimation and fusion in systems that evolve on Lie groups.
+- To properly handle the unknown cross-correlations between local estimates on Lie groups, we extend the ICI algorithm from vector spaces to Lie groups for the first time and integrate it into the diffusion-based framework. We also prove that the fused estimates for each agent are bounded in this work, a result not previously provided in the literature for solving DSE problems on Lie groups. 
+- The performance of the proposed method is validated through extensive Monte-Carlo simulations and compared to the CI-based fusion method, demonstrating superior accuracy.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='assets/proj_img/UKFICI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Consistent Multi-Robot Cooperative Visual-Inertia-Odometry based on Lie Group** [Python, ROS, Multi-agent SLAM]
-- In Progress
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/SRA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Lower Limb Exoskeleton Transparency Control** [Python, ROS, Testing]
 - Developed a test system for transparent haptics rendering on lower-limb exoskeleton using ROS Noetic
