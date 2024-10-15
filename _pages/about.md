@@ -73,6 +73,13 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='assets/proj_img/UKFICI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Consistent Multi-Robot Cooperative Visual-Inertia-Odometry based on Lie Group** [Python, ROS, Multi-agent SLAM]
+- In Progress
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/SRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Lower Limb Exoskeleton Transparency Control** [Python, ROS, Testing]
 - Developed a test system for transparent haptics rendering on lower-limb exoskeleton using ROS Noetic
