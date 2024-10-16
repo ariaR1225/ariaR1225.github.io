@@ -77,6 +77,26 @@ handing unknown distributed covariance
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Search Algorithms</div><img src='assets/proj_img/Astar.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Search Algorithm Visualization** [C++]
+- Created a visualization tool for search algorithm including A*, Dijkstra and BFS with different types of distance measurement (Euclidean, Manhattan, Chebyshev)
+- [View on GitHub](https://github.com/ariaR1225/Search_Algorithm_Visualization)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Planning, Vehicle Dynamics</div><img src='assets/proj_img/PNC.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Planning and Control based on Vehicle Dynamics** [C++]
+- Implemented a Planning and Control algorithm based on vehicle dynamics to simulate and analyze vehicle behavior in complex driving scenarios such as overtaking, navigating crosswalks, and executing precise parking maneuvers
+- [View on GitHub](https://github.com/ariaR1225/Vehicle_Dynamics_PnC)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
