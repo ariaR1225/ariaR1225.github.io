@@ -25,8 +25,6 @@ Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engi
 
 Looking forward to connecting and sharing ideas! 
 
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # Educations
@@ -55,11 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-**Inverse Delayed Reinforcement Learning** 
+**Inverse Delayed Reinforcement Learning** *Simon Sinong Zhan, Qingyuan Wu, **Zhian Ruan**, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu*
 - [Paper Link](https://arxiv.org/abs/2412.02931)
 - Submitted to L4DC
 
-**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
+**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** ***Zhian Ruan**, Yizhi Zhou*
 - [Paper Link](https://arxiv.org/abs/2409.17997)
 - Submitted to L-CSS and ACC
 
@@ -71,12 +69,6 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-**Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
-- Proposed a target tracking algorithm for distributed time-variant system in 3D with invariant (using matrix Lie group and Lie algebra) UKF for distributed state estimation 
-- Applied Inverse Covariance Intersection sensor fusion algorithm as a consistent and less conservative method while
-handing unknown distributed covariance
-- Performed 50 trials of Monte-Carlo simulation at different communication rate (including centralized system) and calculated position and orientation RMSE to show algorithm is robust to time-varying communication topology
 
 
 </div>
@@ -104,6 +96,17 @@ handing unknown distributed covariance
 - Devised robust hand tracking system maintaining accuracy across varied lighting conditions and multi-user scenarios, with modular pipeline for detection, tracking, and gesture recognition
 - [View on GitHub](https://github.com/ariaR1225/Vision_Pro_Simulator)
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Odometry, Feedfoward & Feedback Control</div><img src='assets/proj_img/kuka.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
+- Proposed a target tracking algorithm for distributed time-variant system in 3D with invariant (using matrix Lie group and Lie algebra) UKF for distributed state estimation 
+- Applied Inverse Covariance Intersection sensor fusion algorithm as a consistent and less conservative method while
+handing unknown distributed covariance
+- Performed 50 trials of Monte-Carlo simulation at different communication rate (including centralized system) and calculated position and orientation RMSE to show algorithm is robust to time-varying communication topology
 
 </div>
 </div>
@@ -131,10 +134,6 @@ handing unknown distributed covariance
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Localization</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Consistent Multi-Robot Cooperative Visual-Inertia-Odometry based on Lie Group** [Python, ROS, Multi-agent SLAM]
-- In Progress
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/SRA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
