@@ -63,8 +63,7 @@ Looking forward to connecting and sharing ideas!
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Localization</div><img src='assets/proj_img/ukfici.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
@@ -99,7 +98,7 @@ Looking forward to connecting and sharing ideas!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Odometry, Feedfoward & Feedback Control</div><img src='assets/proj_img/kuka.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Distributed State Estimation</div><img src='assets/proj_img/ukfici.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
