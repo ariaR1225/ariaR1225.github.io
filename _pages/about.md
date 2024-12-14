@@ -37,8 +37,8 @@ Looking forward to connecting and sharing ideas!
 - *🦿 2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
 # Skills
-- *💻 Programming*: Python, MATLAB, C/C++, SQL, Golang
-- *🪄 Dev Tools*: Git, Linux, ROS 1&2, PLC, OpenCV, TensorFlow, Pytorch, RoboDK, Tkinter, Docker
+- *💻 Programming*: Python, C/C++, MATLAB, SQL
+- *🪄 Dev Tools*: Git, Linux, ROS 1&2, Pytorch, TensorFlow, OpenCV, RoboDK, Tkinter, Docker
 - *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
 
 <!-- # 🔥 News
