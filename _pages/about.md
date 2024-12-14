@@ -89,7 +89,7 @@ Looking forward to connecting and sharing ideas!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Distributed State Estimation</div><img src='assets/proj_img/ukfici.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Distributed State Estimation</div><img src='assets/proj_img/ukf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
