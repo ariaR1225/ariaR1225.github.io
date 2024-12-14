@@ -54,12 +54,12 @@ Looking forward to connecting and sharing ideas!
 # Publications 
 
 **Inverse Delayed Reinforcement Learning** 
-*Simon Sinong Zhan, Qingyuan Wu, **Zhian Ruan**, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu*
+- *Simon Sinong Zhan, Qingyuan Wu, **Zhian Ruan**, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu*
 - [Paper Link](https://arxiv.org/abs/2412.02931)
 - Submitted to L4DC
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
-***Zhian Ruan**, Yizhi Zhou*0
+- ***Zhian Ruan**, Yizhi Zhou*
 - [Paper Link](https://arxiv.org/abs/2409.17997)
 - Submitted to L-CSS and ACC
 
