@@ -59,21 +59,15 @@ Looking forward to connecting and sharing ideas!
 - Submitted to L4DC
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
-***Zhian Ruan**, Yizhi Zhou*
+***Zhian Ruan**, Yizhi Zhou*0
 - [Paper Link](https://arxiv.org/abs/2409.17997)
 - Submitted to L-CSS and ACC
 
 # Projects
 
-
-
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Odometry, Feedfoward & Feedback Control</div><img src='assets/proj_img/kuka.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,6 +78,8 @@ Looking forward to connecting and sharing ideas!
 - Designed modular codebase with configuration management and comprehensive error visualization, enabling autonomous manipulation tasks with error convergence across test scenarios
 - [View on GitHub](https://github.com/ariaR1225/KUKA_youBot_Pick_and_Place)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Simulation</div><img src='assets/proj_img/vp_sim.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
