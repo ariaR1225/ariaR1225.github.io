@@ -65,6 +65,105 @@ Looking forward to connecting and sharing ideas!
 
 # Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Odometry, Feedfoward & Feedback Control</div><img src='assets/proj_img/kuka.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**KUKA youBot Pick and Place** [Python]
+- Created a robotic manipulation simulation for KUKA youBot (4-wheeled omnidirectional mobile base + 5R arm), implementing trajectory generation using screw theory, SE(3) transformations, and Mecanum wheel kinematics
+- Built PI feedback control system with pseudoinverse Jacobian for end-effector tracking, incorporating joint limit constraints and singularity handling for stable pick-and-place operations
+- Designed modular codebase with configuration management and comprehensive error visualization, enabling autonomous manipulation tasks with error convergence across test scenarios
+- [View on GitHub](https://github.com/ariaR1225/KUKA_youBot_Pick_and_Place)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Simulation</div><img src='assets/proj_img/vp_sim.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Vision Pro Simulator** [Python, TensorFlow]
+- Developed lightweight Vision Pro simulator with real-time hand gesture and motion recognition achieving >90% accuracy using custom MLP and LSTM neural networks, trained under 90 seconds on CPU
+- Implemented interactive photo manipulation features including drag-and-drop, scaling, rotation, and drawing tools using computer vision techniques and bilinear interpolation
+- Devised robust hand tracking system maintaining accuracy across varied lighting conditions and multi-user scenarios, with modular pipeline for detection, tracking, and gesture recognition
+- [View on GitHub](https://github.com/ariaR1225/Vision_Pro_Simulator)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Distributed State Estimation</div><img src='assets/proj_img/ukfici.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Invariant Unscented Kalman Filter for Distributed Robotic System** [Matrix Lie Group, Multi-agent SLAM, Sensor Fusion]
+- Proposed a target tracking algorithm for distributed time-variant system in 3D with invariant (using matrix Lie group and Lie algebra) UKF for distributed state estimation 
+- Applied Inverse Covariance Intersection sensor fusion algorithm as a consistent and less conservative method while handling unknown distributed covariance
+- Performed 50 trials of Monte-Carlo simulation at different communication rate (including centralized system) and calculated position and orientation RMSE to show algorithm is robust to time-varying communication topology
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Search Algorithms</div><img src='assets/proj_img/Astar.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Search Algorithm Visualization** [C++]
+- Created a visualization tool for search algorithm including A*, Dijkstra and BFS with different types of distance measurement (Euclidean, Manhattan, Chebyshev)
+- [View on GitHub](https://github.com/ariaR1225/Search_Algorithm_Visualization)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Planning, Vehicle Dynamics</div><img src='assets/proj_img/PNC.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Planning and Control based on Vehicle Dynamics** [C++]
+- Implemented a Planning and Control algorithm based on vehicle dynamics to simulate and analyze vehicle behavior in complex driving scenarios such as overtaking, navigating crosswalks, and executing precise parking maneuvers
+- [View on GitHub](https://github.com/ariaR1225/Vehicle_Dynamics_PnC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Haptics Rendering</div><img src='assets/proj_img/SRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lower Limb Exoskeleton Transparency Control** [Python, ROS, Testing]
+- Developed a test system for transparent haptics rendering on lower-limb exoskeleton using ROS Noetic
+- Evaluated and validated parameters for PID and IIR filter by generating Bode plot and shift in RMSE in Python
+- Achieved near zero output at human movement frequency with a less than 10ms delay in real-time
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embedded Control</div><img src='assets/proj_img/linefollow.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Line Following Robot** [Embedded C++, PID]
+- Devised a path following robot based on ATmega32U4 for at 4m/s in low lighting condition
+- Tuned PID position controller based on IR sensors and PD speed controller based on encoder via trial-and-error, and attained an over 95% success rate
+- Established UART communication with ESP32 as a Wi-Fi module to receive command from a higher-level controller, integrated a circuit consisting of a power source and LEDs for computer vision
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control System</div><img src='assets/proj_img/2Rdemo.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2R Robot Impact Simulation** [Lagragian Mechanics, Numerical Analysis, Python]
+- Modeled a rigid body (with elastic impact) inside a box handled by a 2R robot as an end effector via Lagrangian mechanics and RK4, and implemented gravity compensation due to mass of the links and joints of the robot with optimal control
+- [View on GitHub](https://github.com/ariaR1225/NU_MECHE_314)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEA</div><img src='assets/proj_img/bracket.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CNC Milling Bracket Design and Manufacture** [Siemens NX, FEA]
+- Redesigned a bracket for tool holder on a CNC mill, with material changed from steel to Nylon 12, meeting the requirement to remain in one piece, keep end deflection within 0.1mm when 100N force and, reduce more than 50% weight
+- Practiced GD&T in the bracket's engineering drawing which ensures manufacturing accuracy and consistency
+- Conducted FEA in Siemens NX stress and deflection, calculated bolt torque for fasteners, and then improved the design with features to address stress concentration according to the simulation
+
+</div>
+</div>
+<!-- # Projects
+
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
@@ -178,4 +277,4 @@ and RK4, and implemented gravity compensation due to mass of the links and joint
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+ -->
