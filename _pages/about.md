@@ -85,6 +85,7 @@ Looking forward to connecting and sharing ideas!
 - Implemented interactive photo manipulation features including drag-and-drop, scaling, rotation, and drawing tools using computer vision techniques and bilinear interpolation
 - Devised robust hand tracking system maintaining accuracy across varied lighting conditions and multi-user scenarios, with modular pipeline for detection, tracking, and gesture recognition
 - [View on GitHub](https://github.com/ariaR1225/Vision_Pro_Simulator)
+- [See full video on YouTube](https://youtu.be/KKkD_yFPp-U)
 
 </div>
 </div>
