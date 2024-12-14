@@ -83,9 +83,6 @@ Looking forward to connecting and sharing ideas!
 - [View on GitHub](https://github.com/ariaR1225/KUKA_youBot_Pick_and_Place)
 
 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CV, Simulation</div><img src='assets/proj_img/vp_sim.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
