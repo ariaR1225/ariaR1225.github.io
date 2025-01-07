@@ -21,10 +21,9 @@ Hi y'all! 😆🤓🤖
 
 I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research, projects, and internships. 
 
-Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. My focus at this point on multi-agent localization and exploring reinforcement learning applications in autonomous vehicles. Moving forward, I'm looking into opportunities in control software and system integration in related fields. 
+Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. My focus at this point is on multi-agent reinforcement learning and robot learning for manipulation. Moving forward, I'm looking into opportunities in software and machine learning engineering in related fields. 
 
 Looking forward to connecting and sharing ideas! 
-
 
 
 # Educations
@@ -64,6 +63,15 @@ Looking forward to connecting and sharing ideas!
 - Submitted to L-CSS and ACC
 
 # Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensing & Actuation, Haptics Feedback, Sim2Real</div><img src='assets/proj_img/hand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robotic Dexirty Hand** [Control software]
+- Senior capstone in [HAND ERC](https://hand-erc.org/)
+- Responsible for control software development for robotic dexterity hand
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Odometry, Feedfoward & Feedback Control</div><img src='assets/proj_img/kuka.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
