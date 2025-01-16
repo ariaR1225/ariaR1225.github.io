@@ -27,13 +27,13 @@ Looking forward to connecting and sharing ideas!
 
 
 # Educations
-- *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), certificate in HCI 
+- *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), minor in CS, certificate in HCI
 - *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # Internships
-- *🍀 2024.06 - 2024.09*, Ginkgo Bioworks - Mechatronics and Automation, Emeryville, CA
-- *🚗 2024.01 - 2024.05*, Tesla - Power Electronics and Energy Product, Fremont, CA
-- *🦿 2023.06 - 2023.08*, Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
+- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
+- *🚗 2024.01 - 2024.05*, **Manufacturing Engineer, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
+- *🦿 2023.06 - 2023.08*, **Research Engineer** @Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
 
 # Skills
 - *💻 Programming*: Python, C/C++, MATLAB, SQL
