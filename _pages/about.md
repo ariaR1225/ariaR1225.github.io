@@ -33,7 +33,7 @@ Looking forward to connecting and sharing ideas!
 # Internships
 - *🍀 2024.06 - 2024.09*, **Mechatronics Engineer, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
 - *🚗 2024.01 - 2024.05*, **Manufacturing Engineer, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
-- *🦿 2023.06 - 2023.08*, **Research Engineer, Robotics Control** @Shirley Ryan Abilitylab - Neurorehabilitation and Neural Engineering Lab, Chicago, IL
+- *🦿 2023.06 - 2023.08*, **Research Engineer, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
 
 # Skills
 - *💻 Programming*: Python, C/C++, MATLAB, SQL
