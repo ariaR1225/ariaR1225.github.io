@@ -32,9 +32,9 @@ Looking forward to connecting and sharing ideas!
 
 # Industries
 - *🥷 2025.01 - Now*, **Founding Engineer** @Elytra Robotics - Robotics Infra, AI/ML
-- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
-- *🚗 2024.01 - 2024.05*, **Manufacturing Engineer, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
-- *🦿 2023.06 - 2023.08*, **Research Engineer, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
+- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
+- *🚗 2024.01 - 2024.05*, **Manufacturing Engineer Intern, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
+- *🦿 2023.06 - 2023.08*, **Research Engineer Intern, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
 
 # Skills
 - *💻 Programming*: Python, C/C++, MATLAB, SQL
