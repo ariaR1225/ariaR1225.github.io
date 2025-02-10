@@ -6,12 +6,15 @@ main:
   - title: "Educations"
     url: "#educations"
   
-  - title: "Internships" 
-    url: "#internships"
+  - title: "Industries" 
+    url: "#industries"
   
   - title: "Skills"
     url: "#skills"
-    
+  
+  - title: "Updates" 
+    url: "#updates"
+
   - title: "Publications"
     url: "#publications"
     
