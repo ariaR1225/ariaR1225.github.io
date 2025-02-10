@@ -30,7 +30,8 @@ Looking forward to connecting and sharing ideas!
 - *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), minor in CS, certificate in HCI
 - *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
-# Internships
+# Industries
+- *🥷 2025.01 - Now*, **Founding Engineer** @Elytra Robotics - Robotics Infra, AI/ML
 - *🍀 2024.06 - 2024.09*, **Mechatronics Engineer, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
 - *🚗 2024.01 - 2024.05*, **Manufacturing Engineer, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
 - *🦿 2023.06 - 2023.08*, **Research Engineer, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
