@@ -31,8 +31,8 @@ Looking forward to connecting and sharing ideas!
 - *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # Industries
-- *🥷 2025.01 - Now*, **Founding Engineer** @Elytra Robotics - Robotics Infra, AI/ML
-- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Internal Software** @Ginkgo Bioworks - Automation, Emeryville, CA
+- *🥷 2025.01 - Now*, **Founding Engineer, Robotics Infra, AI/ML** @Elytra Robotics
+- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Software** @Ginkgo Bioworks, Emeryville, CA
 - *🚗 2024.01 - 2024.05*, **Manufacturing Engineer Intern, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
 - *🦿 2023.06 - 2023.08*, **Research Engineer Intern, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
 
@@ -41,15 +41,10 @@ Looking forward to connecting and sharing ideas!
 - *🪄 Dev Tools*: Git, Linux, ROS 1&2, Pytorch, TensorFlow, OpenCV, RoboDK, Tkinter, Docker
 - *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
 
-<!-- # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Joined IDEAS Lab, Northwetsern. 
-- *2024.06*: &nbsp;🎉🎉 Started my interhsip at Ginkgo Bioworks - Mechatronics. 
-- *2024.01*: &nbsp;🎉🎉 Started my interhsip at Tesla - Power Electronics and Energy Product.
-✏️- *2023.03*: &nbsp;🎉🎉 Joined MacIver Lab, Center for Robotics and Biosystems, Northwestern. 
-- *2022.09*: &nbsp;🎉🎉 Joined Bionics Lab, Shirley Ryan Abilitylab.  
-- *2022.09*: &nbsp;🎉🎉 Transferred to Northwestern University. 
-- *2021.07*: &nbsp;🎉🎉 Joined Human Dynamics and Control Lab, UIUC. 
-- *2020.08*: &nbsp;🎉🎉 Started my BS in MechE at UIUC.  -->
+# Updates
+- *In Progress*: &nbsp;💭💭 Safety Benchmarking for Embodied AI 
+- *In Progress*: &nbsp;⌨️⌨️ Quiet Multi-agent System 
+
 
 # Publications 
 
@@ -165,13 +160,13 @@ Looking forward to connecting and sharing ideas!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEA</div><img src='assets/proj_img/bracket.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CNC Milling Bracket Design and Manufacture** [Siemens NX, FEA]
+<!-- **CNC Milling Bracket Design and Manufacture** [Siemens NX, FEA]
 - Redesigned a bracket for tool holder on a CNC mill, with material changed from steel to Nylon 12, meeting the requirement to remain in one piece, keep end deflection within 0.1mm when 100N force and, reduce more than 50% weight
 - Practiced GD&T in the bracket's engineering drawing which ensures manufacturing accuracy and consistency
 - Conducted FEA in Siemens NX stress and deflection, calculated bolt torque for fasteners, and then improved the design with features to address stress concentration according to the simulation
 
 </div>
-</div>
+</div> -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
