@@ -25,13 +25,13 @@ Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engi
 
 Looking forward to connecting and sharing ideas! 
 
-# Education
+# Educations
 <table>
   <tbody>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" alt="nu" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS
+        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, **GPA: 3.931**
       </td>
     </tr>
   </tbody>
