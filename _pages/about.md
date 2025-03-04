@@ -25,10 +25,18 @@ Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engi
 
 Looking forward to connecting and sharing ideas! 
 
+# Education
+<table>
+  <tbody>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-# Educations
-- *💜 2022.09 - 2025.06*, **Northwestern University** B.S. in Mechanical Engineering (Robotics), minor in CS, certificate in HCI
-- *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # Industries
 - *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Software** @Ginkgo Bioworks, Emeryville, CA
@@ -36,7 +44,7 @@ Looking forward to connecting and sharing ideas!
 - *🦿 2023.06 - 2023.08*, **Research Engineer Intern, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
 
 # Skills
-- *💻 Programming*: Python, C/C++, MATLAB, SQL
+- *💻 Programming*: Python, C/C++, MATLAB/Simulink, SQL
 - *🪄 Dev Tools*: Git, Linux, ROS 1&2, Pytorch, TensorFlow, OpenCV, RoboDK, Tkinter, Docker
 - *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
 
@@ -53,7 +61,7 @@ Looking forward to connecting and sharing ideas!
 - Submitted to L4DC
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
-- ***Zhian Ruan**, Yizhi Zhou*
+- **Zhian Ruan**, Yizhi Zhou*
 - [Paper Link](https://arxiv.org/abs/2409.17997)
 - Submitted to L-CSS and ACC
 
