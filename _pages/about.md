@@ -31,7 +31,6 @@ Looking forward to connecting and sharing ideas!
 - *🧡 2020.08 - 2022.05 (Transferred)*, **University of Illinois at Urbana Champaign** B.S. in Mechanical Engineering, minor in Informatics
 
 # Industries
-- *🥷 2025.01 - Now*, **Founding Engineer, Robotics Infra, AI/ML** @Elytra Robotics
 - *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Software** @Ginkgo Bioworks, Emeryville, CA
 - *🚗 2024.01 - 2024.05*, **Manufacturing Engineer Intern, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
 - *🦿 2023.06 - 2023.08*, **Research Engineer Intern, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
@@ -59,12 +58,23 @@ Looking forward to connecting and sharing ideas!
 - Submitted to L-CSS and ACC
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensing & Actuation, Haptics Feedback, Sim2Real</div><img src='assets/proj_img/hand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Firmware, FOC, ROS2</div><img src='assets/proj_img/hand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robotic Dexirty Hand** [Control software]
 - Senior capstone in [HAND ERC](https://hand-erc.org/)
-- Responsible for control software development for robotic dexterity hand
+- Responsible for control software development for robotic power grasping hand-wrist system
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Firmware</div><img src='assets/proj_img/finger.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2 DOF finger with N+1 Routing** [C++, CAN, BLDC]
+- Worked on cross-functional software, electrical, and mechanical engineering (7 students) team and successfully shipped a fully integrated (hardware, controller, user interface) 2-DOF dexterous robotic finger within a 3-week project cycle
+- Architected inter-board communication protocols and control libraries using SPI and CAN, debugged with Saleae logic analyzer, and enabled integration between encoder, motor drivers, and haptic feedback systems in real-time 
+- Scripted C++ firmware library for real-time BLDC motor control, auto-tensioning algorithm, and transparent control
 
 </div>
 </div>
@@ -153,12 +163,6 @@ Looking forward to connecting and sharing ideas!
 **2R Robot Impact Simulation** [Lagragian Mechanics, Numerical Analysis, Python]
 - Modeled a rigid body (with elastic impact) inside a box handled by a 2R robot as an end effector via Lagrangian mechanics and RK4, and implemented gravity compensation due to mass of the links and joints of the robot with optimal control
 - [View on GitHub](https://github.com/ariaR1225/NU_MECHE_314)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEA</div><img src='assets/proj_img/bracket.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <!-- **CNC Milling Bracket Design and Manufacture** [Siemens NX, FEA]
 - Redesigned a bracket for tool holder on a CNC mill, with material changed from steel to Nylon 12, meeting the requirement to remain in one piece, keep end deflection within 0.1mm when 100N force and, reduce more than 50% weight
