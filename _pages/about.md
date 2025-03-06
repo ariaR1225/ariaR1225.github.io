@@ -49,19 +49,19 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/ginkgo.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Ginkgo Bioworks, Emeryville, CA</strong> <br> 2024.06 - 2024.09 <br>  Mechatronics Engineer Intern, System Integration & Software
+        <strong>Ginkgo Bioworks</strong> <br> 2024.06 - 2024.09 | Emeryville, CA <br>  Mechatronics Engineer Intern, System & software integration for robot deployment
       </td>
     </tr>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/tesla.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Tesla - Power Electronics and Energy Product, Fremont, CA</strong> <br> 2024.01 - 2024.05 <br> Manufacturing Engineer Intern, Software Automation
+        <strong>Tesla - Power Electronics and Energy Product</strong> <br> 2024.01 - 2024.05 | Fremont, CA<br> Manufacturing Engineer Intern, Software automation for PCBA
       </td>
     </tr>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/SRA.jpeg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Shirley Ryan Abilitylab</strong> <br> 2023.06 - 2023.08 <br> Research Engineer Intern, Robotics Control
+        <strong>Shirley Ryan Abilitylab</strong> <br> 2023.06 - 2023.08 | Chicago, IL <br> Research Engineer Intern, Robotic control for exoskeleton
       </td>
     </tr>
   </tbody>
