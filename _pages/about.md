@@ -31,23 +31,41 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.931
+        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.931
       </td>
     </tr>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/uiuc.png" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>University of Illinois at Urbana Champaign</strong> <br> 08/2020 - 05/2022 (transferred) <br> B.S. in Mechanical Engineering, minor in Informatics, GPA: 4.0
+        <strong>University of Illinois at Urbana Champaign</strong> <br> 2020.08 - 2022.05 (transferred) <br> B.S. in Mechanical Engineering, minor in Informatics, GPA: 4.0
       </td>
     </tr>
   </tbody>
 </table>
 
 # Industries
-- *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Software** @Ginkgo Bioworks, Emeryville, CA
-- *🚗 2024.01 - 2024.05*, **Manufacturing Engineer Intern, Software Automation** @Tesla - Power Electronics and Energy Product, Fremont, CA
-- *🦿 2023.06 - 2023.08*, **Research Engineer Intern, Robotics Control** @Shirley Ryan Abilitylab, Chicago, IL
-
+<table>
+  <tbody>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/ginkgo.jpg" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Ginkgo Bioworks, Emeryville, CA</strong> <br> 2024.06 - 2024.09 <br>  Mechatronics Engineer Intern, System Integration & Software
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/tesla.jpg" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Tesla - Power Electronics and Energy Product, Fremont, CA</strong> <br> 2024.01 - 2024.05 <br> Manufacturing Engineer Intern, Software Automation
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/SRA.jpeg" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Shirley Ryan Abilitylab</strong> <br> 2023.06 - 2023.08 <br> Research Engineer Intern, Robotics Control
+      </td>
+    </tr>
+  </tbody>
+</table>
 # Skills
 - *💻 Programming*: Python, C/C++, MATLAB/Simulink, SQL
 - *🪄 Dev Tools*: Git, Linux, ROS 1&2, Pytorch, TensorFlow, OpenCV, RoboDK, Tkinter, Docker
