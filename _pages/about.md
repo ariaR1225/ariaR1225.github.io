@@ -29,14 +29,19 @@ Looking forward to connecting and sharing ideas!
 <table>
   <tbody>
     <tr>
-      <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, **GPA: 3.931**
+        <strong>Northwestern University</strong> <br> 09/2022 - 06/2025 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.931
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/uiuc.png" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>University of Illinois at Urbana Champaign</strong> <br> 08/2020 - 05/2022 (transferred) <br> B.S. in Mechanical Engineering, minor in Informatics, GPA: 4.0
       </td>
     </tr>
   </tbody>
 </table>
-
 
 # Industries
 - *🍀 2024.06 - 2024.09*, **Mechatronics Engineer Intern, System Integration & Software** @Ginkgo Bioworks, Emeryville, CA
