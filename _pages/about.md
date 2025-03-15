@@ -93,8 +93,9 @@ Looking forward to connecting and sharing ideas!
 <div class='paper-box-text' markdown="1">
 
 **Robotic Dexirty Hand** [Control software]
-- Senior capstone in [HAND ERC](https://hand-erc.org/)
-- Responsible for control software development for robotic power grasping hand-wrist system
+- Developing an 8 DOF hand-wrist-arm system, including a 4 DOF dexterous finger, 1 DOF power grasping finger, a 3 DOF wrist, and an arm housing for electronics
+- Responsible for ROS package for communication between microROS on Teensy 4.1 and laptop via EtherCAT
+- Coordinating with eletrical team with motor driver board development for FOC including op-amp based current sense, gate driver, GaNFETs, and hall-effect sensors via CAN and SPI
 
 </div>
 </div>
@@ -104,8 +105,11 @@ Looking forward to connecting and sharing ideas!
 
 **2 DOF finger with N+1 Routing** [C++, CAN, BLDC]
 - Worked on cross-functional software, electrical, and mechanical engineering (7 students) team and successfully shipped a fully integrated (hardware, controller, user interface) 2-DOF dexterous robotic finger within a 3-week project cycle
-- Architected inter-board communication protocols and control libraries using SPI and CAN, debugged with Saleae logic analyzer, and enabled integration between encoder, motor drivers, and haptic feedback systems in real-time 
-- Scripted C++ firmware library for real-time BLDC motor control, auto-tensioning algorithm, and transparent control
+- Scripted C++ firmware library for real-time BLDC motor control, implementing field-oriented control with space vector PWM and closed-loop PID algorithms for precise torque regulation in an 8 DOF power grasp robotic hand
+- Architected inter-board communication protocols and control libraries using SPI, CAN, and EtherCAT, debugged with Saleae logic analyzer, and enabled integration between encoder, motor drivers, and sensor feedback in real-time 
+- Established communication via Teensy 4.1 using ROS 2 and microROS with RTOS (FreeRTOS) functionality and built a ROS package dedicated for EtherCAT message I/O and parsing for real-time monitoring on user interface
+- Designed encoder boards and motor driver boards (gate driver, GaN FETs, current sense) on ARM Cortex-M7 processor platform using Altium, implementing pin budgeting and precision signal routing for reliability
+
 
 </div>
 </div>
