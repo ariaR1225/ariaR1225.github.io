@@ -31,7 +31,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.931
+        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.94
       </td>
     </tr>
     <tr>
@@ -67,9 +67,9 @@ Looking forward to connecting and sharing ideas!
   </tbody>
 </table>
 # Skills
-- *💻 Programming*: Python, C/C++, MATLAB/Simulink, SQL
+- *💻 Programming*: Python, C/C++, Java, MATLAB/Simulink, SQL
 - *🪄 Dev Tools*: Git, Linux, ROS 1&2, Pytorch, TensorFlow, OpenCV, RoboDK, Tkinter, Docker
-- *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), IPC, machine shop, soldering, oscilloscope, PCB design 
+- *🔩 Hardware*: CAD (SOLIDWORKS, Siemens NX, Fusion 360), CAM, microcontroller (Raspberry Pi, PIC 32, EPS 32, Arduino), rapid prototyping (3D printing, laser cutting), PCB design, TwinCAT PLC, communication protocols (UART, I2C, SPI, CAN), machine shop, soldering, oscilloscope 
 
 # Updates
 - *In Progress*: &nbsp;💭💭 Safety Benchmarking for Embodied AI 
@@ -86,7 +86,7 @@ Looking forward to connecting and sharing ideas!
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
 - **Zhian Ruan**, Yizhi Zhou*
 - [Paper Link](https://arxiv.org/abs/2409.17997)
-- Submitted to L-CSS and ACC
+- Submitted to CDC
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Firmware, FOC, ROS2</div><img src='assets/proj_img/hand.png' alt="sym" width="100%"></div></div>
