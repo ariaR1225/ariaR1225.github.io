@@ -21,7 +21,7 @@ Hi y'all! 😆🤓🤖
 
 I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research, projects, and internships. 
 
-Quick intro about myself. I'm currently an undergrad majoring in Mechanical Engineering with a concentration on Robotics at Northwestern University. My passion lies at the intersection of Control Systems, Robot Learning, and Hardware Design. My skills bridge both hardware and software domains. My focus at this point is on multi-agent reinforcement learning and robot learning for manipulation. Moving forward, I'm looking into opportunities in software and machine learning engineering in related fields. 
+Quick intro about myself. I've finished undergrad in Mechanical Engineering with a concentration in Robotics at Northwestern University. My passion lies at the intersection of Control Software, Robot Learning, and System Integration. My skills bridge both hardware and software domains. My focus at this point is on *Safe Embodied AI*, *Robot Hand Manipulation*, and *Multi-agent Reinforcement Learning*. Moving forward, I'm looking into opportunities in software and machine learning engineering in related fields. 
 
 Looking forward to connecting and sharing ideas! 
 
@@ -31,7 +31,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.94
+        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, minor in CS, GPA: 3.95
       </td>
     </tr>
     <tr>
@@ -47,6 +47,12 @@ Looking forward to connecting and sharing ideas!
 <table>
   <tbody>
     <tr>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/tesla.jpg" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Tesla - Energy R&D</strong> <br> 2025.07 - Now | Palo Alto, CA<br> Test Hardware Controls Engineer, Automation & software integration
+      </td>
+    </tr>
+    <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/ginkgo.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Ginkgo Bioworks</strong> <br> 2024.06 - 2024.09 | Emeryville, CA <br>  Mechatronics Engineer Intern, System & software integration for robot deployment
@@ -55,7 +61,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/tesla.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Tesla - Power Electronics and Energy Product</strong> <br> 2024.01 - 2024.05 | Fremont, CA<br> Manufacturing Engineer Intern, Software automation for PCBA
+        <strong>Tesla - Power Electronics</strong> <br> 2024.01 - 2024.05 | Fremont, CA<br> Manufacturing Engineer Intern, Software automation for PCBA
       </td>
     </tr>
     <tr>
@@ -89,26 +95,26 @@ Looking forward to connecting and sharing ideas!
 - Submitted to CDC
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Firmware, FOC, ROS2</div><img src='assets/proj_img/hand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Firmware, FOC, ROS2</div><img src='assets/proj_img/hand.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robotic Dexirty Hand** [Control software]
-- Developing an 8 DOF hand-wrist-arm system, including a 4 DOF dexterous finger, 1 DOF power grasping finger, a 3 DOF wrist, and an arm housing for electronics
-- Responsible for ROS package for communication between microROS on Teensy 4.1 and laptop via EtherCAT
-- Coordinating with eletrical team with motor driver board development for FOC including op-amp based current sense, gate driver, GaNFETs, and hall-effect sensors via CAN and SPI
-
+**Robotic Dexirty Hand** [C++, System Integration, ROS2]
+- Led software architecture on ARM Cortex-M7 within a cross-functional ME/EE/CS team, designing control systems for an 8-DOF robotic hand with wrist, power grasping finger, and dexterous finger for manipulation tasks
+- Characterized serial elastic actuator (SEA) for force sensing and backdrivability across multiple loading conditions on all modules, achieving <0.05s force settling time and >10Hz bandwidth in position tracking 
+- Coordinating with eletrical team with motor driver board development integrating gate drivers, GaNFETs hall-effect sensors, and a 16-bit external ADC for current sense, achieving a more precise torque regulation
+- Developed comprehensive brushless DC (BLDC) motion control libraries integrating forward/inverse kinematics with null space optimization algorithms, implementing inner loop with field-oriented control and PD torque control and outer loop PID position control and gravity compensation
+- Architected inter-board (SPI & CAN) between 9 boards with sensors with Saleae logic analyzer for signal integrity verification, enabling 10kHz real-time feedback loops for encoders, current sensors, and motor drivers
+- Created intuitive MediaPipe-based hand tracking graphical user interface with ROS2 integration, enabling real-time gesture recognition and visualization RViz with URDF-based digital twin implementation
+ 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Firmware</div><img src='assets/proj_img/finger.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Firmware</div><img src='assets/proj_img/kittens.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**2 DOF finger with N+1 Routing** [C++, CAN, BLDC]
-- Worked on cross-functional software, electrical, and mechanical engineering (7 students) team and successfully shipped a fully integrated (hardware, controller, user interface) 2-DOF dexterous robotic finger within a 3-week project cycle
-- Scripted C++ firmware library for real-time BLDC motor control, implementing field-oriented control with space vector PWM and closed-loop PID algorithms for precise torque regulation in an 8 DOF power grasp robotic hand
-- Architected inter-board communication protocols and control libraries using SPI, CAN, and EtherCAT, debugged with Saleae logic analyzer, and enabled integration between encoder, motor drivers, and sensor feedback in real-time 
-- Established communication via Teensy 4.1 using ROS 2 and microROS with RTOS (FreeRTOS) functionality and built a ROS package dedicated for EtherCAT message I/O and parsing for real-time monitoring on user interface
-- Designed encoder boards and motor driver boards (gate driver, GaN FETs, current sense) on ARM Cortex-M7 processor platform using Altium, implementing pin budgeting and precision signal routing for reliability
+**Exploding Wild-Kitten Boardgame App** [CI, SW Quality]
+- Spearheaded implementation of test-driven development (TDD) for a Java-based multiplayer card game, creating comprehensive unit and integration tests that achieved 100% code coverage while applying boundary value analysis (BVA) techniques to identify and mitigate critical edge cases that could impact gameplay integrity
+- Architected and deployed a robust CI/CD pipeline with strict branch protection rules that enforced automated quality checks, while establishing team-wide coding standards that improved maintainability and enabled successful internationalization (i18n) support across multiple languages
 
 
 </div>
