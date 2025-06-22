@@ -95,10 +95,10 @@ Looking forward to connecting and sharing ideas!
 - Submitted to CDC
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Firmware, FOC, ROS2</div><img src='assets/proj_img/hand.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Manipulation, System Integration</div><img src='assets/proj_img/hand.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robotic Dexirty Hand** [C++, System Integration, ROS2]
+**Robotic Dexirty Hand** [C++, ROS2]
 - Led software architecture on ARM Cortex-M7 within a cross-functional ME/EE/CS team, designing control systems for an 8-DOF robotic hand with wrist, power grasping finger, and dexterous finger for manipulation tasks
 - Characterized serial elastic actuator (SEA) for force sensing and backdrivability across multiple loading conditions on all modules, achieving <0.05s force settling time and >10Hz bandwidth in position tracking 
 - Coordinating with eletrical team with motor driver board development integrating gate drivers, GaNFETs hall-effect sensors, and a 16-bit external ADC for current sense, achieving a more precise torque regulation
@@ -109,10 +109,10 @@ Looking forward to connecting and sharing ideas!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Firmware</div><img src='assets/proj_img/kittens.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CI, SW Quality</div><img src='assets/proj_img/kittens.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploding Wild-Kitten Boardgame App** [CI, SW Quality]
+**Exploding Wild-Kitten Boardgame App** [Java]
 - Spearheaded implementation of test-driven development (TDD) for a Java-based multiplayer card game, creating comprehensive unit and integration tests that achieved 100% code coverage while applying boundary value analysis (BVA) techniques to identify and mitigate critical edge cases that could impact gameplay integrity
 - Architected and deployed a robust CI/CD pipeline with strict branch protection rules that enforced automated quality checks, while establishing team-wide coding standards that improved maintainability and enabled successful internationalization (i18n) support across multiple languages
 
