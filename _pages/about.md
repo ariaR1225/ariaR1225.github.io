@@ -19,9 +19,9 @@ redirect_from:
 
 Hi y'all! 😆🤓🤖
 
-I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research, projects, and internships. 
+I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research and projects. 
 
-Quick intro about myself. I've finished undergrad in Mechanical Engineering with a concentration in Robotics at Northwestern University. My passion lies at the intersection of Control Software, Robot Learning, and System Integration. My skills bridge both hardware and software domains. My focus at this point is on *Safe Embodied AI*, *Robot Hand Manipulation*, and *Multi-agent Reinforcement Learning*. Moving forward, I'm looking into opportunities in software and machine learning engineering in related fields. 
+Quick intro about myself. I've finished undergrad in Robotics at Northwestern University. My passion lies at the intersection of Learning, Control, and System Integration. My skills bridge both hardware and software domains. My experience covered *dexterity manipulation*, *safety evaluation for embodied AI*, and *reinforcement learning* in complex and partially observable environments. Now, I am interested in advancing world action model 🌎 to enable learning and planning for agents under uncertainty and making physical AI deployable in the real-world effectively and reliably 🦾.  
 
 Looking forward to connecting and sharing ideas! 
 
@@ -49,7 +49,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/roboforce.jpeg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>RoboForce - Member of Techinical Staff</strong> <br> 2025.10 - Now | Milpitas, CA<br> Building Physical AI-Powered Robo-Labor
+        <strong>RoboForce - Member of Techinical Staff</strong> <br> 2025.10 - Now | Milpitas, CA<br> AI & Robotics
       </td>
     </tr>
     <tr>
@@ -91,17 +91,17 @@ Looking forward to connecting and sharing ideas!
 **SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents** 
 - *Simon Z., Yao L., Philip W., Zinan W., Qineng W., **Zhian R.**, Xiangyu S., Xinyu C., Frank Y., Kangrui W., Huajie S., Manling L., Qi Z*
 - [Paper Link](https://arxiv.org/abs/2510.12985)
-- Submitted to ICLR
+- Under Review for ICML 📝
 
 **Inverse Delayed Reinforcement Learning** 
 - *Simon Sinong Zhan, Qingyuan Wu, **Zhian Ruan**, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu*
 - [Paper Link](https://arxiv.org/abs/2412.02931)
-- In Progress
+- In Progress ⏳
 
 **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements** 
 - ***Zhian Ruan**, Yizhi Zhou*
 - [Paper Link](https://arxiv.org/abs/2409.17997)
-- Submitted to ACC
+- Accepted to ACC ✅
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Manipulation, System Integration</div><img src='assets/proj_img/hand.gif' alt="sym" width="100%"></div></div>
