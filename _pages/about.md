@@ -31,7 +31,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/stanford.png" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Satnford University</strong> <br> 2026.09 <br> M.S. in EECS <br> Stanford Robotics Center (Advised by Prof. Shuran Song)
+        <strong>Satnford University</strong> <br> 2026.09 <br> M.S. in EECS <br> REAL Lab, Stanford Robotics Center (Advised by Prof. Shuran Song)
       </td>
     </tr>
     <tr>
