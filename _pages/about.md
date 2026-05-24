@@ -29,7 +29,7 @@ Looking forward to connecting and sharing ideas!
 <table>
   <tbody>
     <tr>
-      <td style="border-bottom-width:0;"><img src="assets/proj_img/stanford.jpg" width="60"></td>
+      <td style="border-bottom-width:0;"><img src="assets/proj_img/stanford.png" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Satnford University</strong> <br> 2026.09 <br> M.S. in EECS <br> Stanford Robotics Center (Advised by Prof. Shuran Song)
       </td>
