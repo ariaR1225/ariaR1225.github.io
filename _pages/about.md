@@ -40,12 +40,6 @@ Looking forward to connecting and sharing ideas!
         <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, Magna Cum Laude, GPA: 3.947 <br> Center for Robotics and Biosystems (Advised by Prof. Kevin Lynch) <br> IDEAS Lab (Advised by Prof. Qi Zhu)
       </td>
     </tr>
-    <tr>
-      <td style="border-bottom-width:0;"><img src="assets/proj_img/uiuc.png" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>University of Illinois at Urbana Champaign</strong> <br> 2020.08 - 2022.05 (transferred) <br> B.S. in Mechanical Engineering, minor in Informatics, GPA: 4.0
-      </td>
-    </tr>
   </tbody>
 </table>
 
