@@ -37,7 +37,7 @@ Looking forward to connecting and sharing ideas!
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, Magna Cum Laude, GPA: 3.947 <br> - [Center for Robotics and Biosystems](https://robotics.northwestern.edu/) (Advised by Prof. Kevin Lynch) <br> - [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) (Advised by Prof. Qi Zhu)
+        <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, Magna Cum Laude, GPA: 3.947 <br> - [HAND ERC](https://hand-erc.org/), Center for Robotics and Biosystems (Advised by Prof. Kevin Lynch) <br> - [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) (Advised by Prof. Qi Zhu)
       </td>
     </tr>
   </tbody>
