@@ -25,7 +25,7 @@ Quick intro about myself. My undergrad was in Robotics at Northwestern Universit
 
 My passion lies at the intersection of Learning and System Integration. My experience covered *Dexterity Manipulation*, *Safety Evaluation for Embodied AI*, and *Reinforcement Learning* in complex and partially observable environments. 
 
-Now, I focusing on synergizing WAMs (world action models) 🌎 and VLAs (Vision-Language-Action models) 🧠 to enable learning and planning for agents under uncertainty, as well as cross-embodiment 🦾 strategies in making physical AI deployable in the real-world effectively and reliably.  
+Now, I focusing on synergizing WAMs (world action models) 🌎 and VLAs (Vision-Language-Action models) 🧠 to enable learning and planning for agents under uncertainty, as well as cross-embodiment strategies 🦾 in making physical AI deployable in the real-world effectively and reliably.  
 
 Looking forward to connecting and sharing ideas! 
 
