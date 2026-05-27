@@ -34,13 +34,13 @@ Looking forward to connecting and sharing ideas!
   <tbody>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/stanford.png" width="60"></td>
-      <td style="border-bottom-width:0;">
+      <td style="border-bottom-width:0;" markdown="1">
         <strong>Satnford University</strong> <br> 2026.09 <br> M.S. in EECS <br> - [REAL Lab](https://real.stanford.edu/), Stanford Robotics Center (Advised by Prof. Shuran Song)
       </td>
     </tr>
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/proj_img/northwestern.jpg" width="60"></td>
-      <td style="border-bottom-width:0;">
+      <td style="border-bottom-width:0;" markdown="1">
         <strong>Northwestern University</strong> <br> 2022.09 - 2025.06 <br> B.S. with honors in Robotics/Mechanical Engineering, Magna Cum Laude, GPA: 3.947 <br> - [HAND ERC](https://hand-erc.org/), Center for Robotics and Biosystems (Advised by Prof. Kevin Lynch) <br> - [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) (Advised by Prof. Qi Zhu)
       </td>
     </tr>
