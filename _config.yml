@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Aria's Portfolio"
-description              : "Interest in Robotics -- Control & Sensing & Learning"
+description              : "Teaching robots to learn about the physical world"
 repository               : "ariaR1225/ariaR1225.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhian (Aria) Ruan"
   avatar           : "images/avatar.png"
-  bio              : "MTS @RoboForce | Robotics @Northwestern"
+  bio              : "MTS @RoboForce | Robotics @Stanford"
   location         : "Bay Area"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ariar@u.northwestern.edu"
+  email            : "ariaruan@stanford.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
