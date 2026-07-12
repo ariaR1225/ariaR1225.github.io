@@ -202,6 +202,7 @@ iframe {
 
 .intro-copy strong {
   color: var(--accent);
+  font-weight: 400;
 }
 
 .eyebrow,
