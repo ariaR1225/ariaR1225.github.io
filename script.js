@@ -40,3 +40,61 @@ if (themeToggle) {
 
   renderToggle();
 }
+
+const researchThumbs = document.querySelectorAll(".research-section .rail-card.media img");
+
+if (researchThumbs.length) {
+  const lightbox = document.createElement("div");
+  lightbox.className = "lightbox";
+  lightbox.setAttribute("role", "dialog");
+  lightbox.setAttribute("aria-modal", "true");
+  lightbox.hidden = true;
+
+  const lightboxImg = document.createElement("img");
+  lightboxImg.alt = "";
+
+  const closeButton = document.createElement("button");
+  closeButton.type = "button";
+  closeButton.className = "lightbox-close";
+  closeButton.setAttribute("aria-label", "Close preview");
+  closeButton.textContent = "✕";
+
+  lightbox.append(lightboxImg, closeButton);
+  document.body.append(lightbox);
+
+  let lastTrigger = null;
+
+  const closeLightbox = () => {
+    lightbox.classList.remove("is-open");
+    lightbox.hidden = true;
+    document.body.style.overflow = "";
+    if (lastTrigger) lastTrigger.focus();
+  };
+
+  const openLightbox = (img) => {
+    lastTrigger = img;
+    lightboxImg.src = img.currentSrc || img.src;
+    lightboxImg.alt = img.alt;
+    lightbox.hidden = false;
+    document.body.style.overflow = "hidden";
+    requestAnimationFrame(() => lightbox.classList.add("is-open"));
+    closeButton.focus();
+  };
+
+  researchThumbs.forEach((img) => {
+    img.tabIndex = 0;
+    img.setAttribute("role", "button");
+    img.addEventListener("click", () => openLightbox(img));
+    img.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        openLightbox(img);
+      }
+    });
+  });
+
+  lightbox.addEventListener("click", closeLightbox);
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !lightbox.hidden) closeLightbox();
+  });
+}
