@@ -200,6 +200,10 @@ iframe {
   max-width: 760px;
 }
 
+.intro-copy strong {
+  color: var(--accent);
+}
+
 .eyebrow,
 .meta,
 .section-heading span,
