@@ -783,7 +783,7 @@ details[open] .summary-closed {
   }
 
   .intro {
-    grid-template-columns: minmax(0, 1fr) 200px;
+    grid-template-columns: minmax(0, 1fr) 220px;
     align-items: start;
   }
 
