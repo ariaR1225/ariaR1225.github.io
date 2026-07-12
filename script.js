@@ -14,3 +14,32 @@ filters.forEach((button) => {
     });
   });
 });
+
+const themeToggle = document.querySelector(".theme-toggle");
+
+if (themeToggle) {
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+  const currentTheme = () =>
+    document.documentElement.dataset.theme || (prefersDark.matches ? "dark" : "light");
+
+  const renderToggle = () => {
+    const dark = currentTheme() === "dark";
+    themeToggle.textContent = dark ? "☀" : "☾";
+    themeToggle.setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+  };
+
+  themeToggle.addEventListener("click", () => {
+    const next = currentTheme() === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    try {
+      localStorage.setItem("theme", next);
+    } catch (e) {
+      /* private browsing */
+    }
+    renderToggle();
+  });
+
+  prefersDark.addEventListener("change", renderToggle);
+  renderToggle();
+}
