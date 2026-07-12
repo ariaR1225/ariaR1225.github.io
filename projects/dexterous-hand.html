@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Robotic Dexterity Hand | Zhian (Aria) Ruan</title>
+    <meta name="description" content="An 8-DOF robotic hand with SEA force sensing, custom BLDC motor drivers, and ROS 2 hand-tracking teleoperation.">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+    <link rel="stylesheet" href="../styles.css?v=1">
+  </head>
+  <body class="project-page">
+    <div class="page">
+      <header class="masthead">
+        <a class="brand" href="../index.html#top">Zhian (Aria) Ruan</a>
+        <nav class="nav" aria-label="Primary">
+          <a href="../index.html#research">Research</a>
+          <a href="../index.html#news">News</a>
+          <a href="../index.html#experience">Experience</a>
+          <a href="../index.html#skills">Skills</a>
+          <a href="../index.html#projects">Projects</a>
+        </nav>
+      </header>
+
+      <main>
+        <a class="back-link" href="../index.html#projects">Back to projects</a>
+        <section class="project-hero">
+          <div>
+            <p class="eyebrow">Mechatronics · Manipulation · System integration</p>
+            <h1>Robotic Dexterity Hand</h1>
+            <p>An 8-DOF robotic hand with SEA force sensing, custom BLDC motor drivers, and ROS 2 hand-tracking teleoperation.</p>
+          </div>
+          <img src="../assets/proj_img/hand.gif" alt="Robotic Dexterity Hand demo">
+        </section>
+        <article class="project-body">
+          <p><strong>Stack:</strong> C++, ROS 2, ARM Cortex-M7</p>
+
+          <h2>Highlights</h2>
+          <ul>
+            <li>Led software architecture on ARM Cortex-M7 within a cross-functional ME/EE/CS team, designing control systems for an 8-DOF robotic hand with wrist, power-grasping finger, and dexterous finger for manipulation tasks</li>
+            <li>Characterized series elastic actuators (SEA) for force sensing and backdrivability across multiple loading conditions on all modules, achieving &lt;0.05 s force settling time and &gt;10 Hz bandwidth in position tracking</li>
+            <li>Coordinated with the electrical team on motor driver board development integrating gate drivers, GaN FETs, hall-effect sensors, and a 16-bit external ADC for current sensing, achieving more precise torque regulation</li>
+            <li>Developed comprehensive brushless DC (BLDC) motion control libraries integrating forward/inverse kinematics with null-space optimization algorithms, implementing an inner loop with field-oriented control and PD torque control and an outer loop with PID position control and gravity compensation</li>
+            <li>Architected inter-board communication (SPI &amp; CAN) between 9 boards with sensors, verifying signal integrity with a Saleae logic analyzer and enabling 10 kHz real-time feedback loops for encoders, current sensors, and motor drivers</li>
+            <li>Created an intuitive MediaPipe-based hand-tracking graphical user interface with ROS 2 integration, enabling real-time gesture recognition and RViz visualization with a URDF-based digital twin</li>
+          </ul>
+        </article>
+      </main>
+
+      <footer class="footer">
+        <div class="footer-links">
+          <a href="../index.html#projects">Projects</a>
+          <a href="mailto:ariaruan@stanford.edu">Email</a>
+          <a href="https://github.com/ariaR1225">GitHub</a>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
