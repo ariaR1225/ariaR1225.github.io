@@ -491,6 +491,18 @@ details .news-row:last-child {
   padding-left: 18px;
 }
 
+.news-copy a {
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.news-copy a:hover {
+  text-decoration-thickness: 2px;
+}
+
 details summary {
   cursor: pointer;
   padding: 10px 12px;
