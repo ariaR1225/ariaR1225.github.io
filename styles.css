@@ -405,6 +405,29 @@ a.rail-card.soft:hover {
   color: var(--accent-strong);
 }
 
+.keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 9px;
+}
+
+.keywords span {
+  display: inline-flex;
+  min-height: 18px;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  padding: 2px 6px;
+  white-space: nowrap;
+}
+
 .research-links {
   display: flex;
   flex-wrap: wrap;
