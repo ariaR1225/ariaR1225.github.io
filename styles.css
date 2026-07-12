@@ -242,7 +242,7 @@ h1 {
 
 .portrait {
   align-self: start;
-  width: 132px;
+  width: 190px;
   margin: 0;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -783,7 +783,7 @@ details[open] .summary-closed {
   }
 
   .intro {
-    grid-template-columns: minmax(0, 1fr) 132px;
+    grid-template-columns: minmax(0, 1fr) 190px;
     align-items: start;
   }
 
