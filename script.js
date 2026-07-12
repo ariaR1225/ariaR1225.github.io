@@ -31,7 +31,7 @@ if (themeToggle) {
     const next = currentTheme() === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     try {
-      localStorage.setItem("theme", next);
+      localStorage.setItem("aria-theme", next);
     } catch (e) {
       /* private browsing */
     }
