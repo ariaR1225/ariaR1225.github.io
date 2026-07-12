@@ -21,7 +21,7 @@ Hey y'all! 😆🤓🤖
 
 I'm Aria and this is my digital portfolio. It will cover most of my experience, especially those relavent to Robotics, including past and ongoing research and projects. 
 
-Quick intro about myself. My undergrad was in Robotics at Northwestern University and I will be continuing my study in Robotics at Stanford Fall 2026! My passion lies at the intersection of Robot Learning and System Integration. Past projects covered *Dexterity Manipulation*, *Safety Evaluation for Embodied AI*, and *Reinforcement Learning* in complex and partially observable environments. 
+Quick intro about myself. My undergrad was in Robotics at Northwestern University and I will be continuing my study in Robotics at Stanford Fall 2026! My passion lies at the intersection of Robot Learning and System Integration. Past projects covered *Dexterity Manipulation*, *Safety Embodied AI*, and *Reinforcement Learning* in complex and partially observable environments. 
 
 My current focus is on synergizing WAMs (world action models) 🌎 and VLAs (Vision-Language-Action models) 🧠 to enable learning and planning for agents under uncertainty, as well as cross-embodiment strategies 🦾 in making physical AI deployable in the real-world effectively and reliably.  
 
