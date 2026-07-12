@@ -5,8 +5,8 @@ Personal portfolio of Zhian (Aria) Ruan — a hand-rolled static site (no framew
 ## Structure
 
 - `index.html` — single-page portfolio: intro, research, news, experience, skills, and filterable projects
-- `styles.css` — all styling (CSS variables at the top control the palette)
-- `script.js` — project category filtering
+- `styles.css` — all styling; the two variable blocks at the top define the palettes (dark is the default theme, light is opt-in)
+- `script.js` — project category filtering and the ☾/☀ theme toggle (choice persisted in localStorage)
 - `projects/*.html` — one detail page per project
 - `assets/proj_img/` — project media and logos
 - `images/` — headshot and favicons

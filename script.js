@@ -18,10 +18,8 @@ filters.forEach((button) => {
 const themeToggle = document.querySelector(".theme-toggle");
 
 if (themeToggle) {
-  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)");
-
-  const currentTheme = () =>
-    document.documentElement.dataset.theme || (prefersDark.matches ? "dark" : "light");
+  // Dark is the default; "light" is opt-in via the toggle.
+  const currentTheme = () => document.documentElement.dataset.theme || "dark";
 
   const renderToggle = () => {
     const dark = currentTheme() === "dark";
@@ -40,6 +38,5 @@ if (themeToggle) {
     renderToggle();
   });
 
-  prefersDark.addEventListener("change", renderToggle);
   renderToggle();
 }

@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="356" height="200" viewBox="0 0 356 200" role="img" aria-label="Inverse Delayed Reinforcement Learning">
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#fdfdfe"/>
-      <stop offset="1" stop-color="#dee7ed"/>
+      <stop offset="0" stop-color="#fdf9f4"/>
+      <stop offset="1" stop-color="#f7dce8"/>
     </linearGradient>
     <pattern id="grid2" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#748794" stroke-opacity="0.16" stroke-width="1"/>
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#b25c82" stroke-opacity="0.14" stroke-width="1"/>
     </pattern>
     <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 0 L 8 4 L 0 8 z" fill="#748794" fill-opacity="0.7"/>
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#e699b9" fill-opacity="0.9"/>
     </marker>
   </defs>
   <rect width="356" height="200" fill="url(#bg2)"/>
   <rect width="356" height="200" fill="url(#grid2)"/>
-  <path d="M 236 66 C 268 30, 316 44, 322 74" fill="none" stroke="#748794" stroke-opacity="0.7" stroke-width="1.6" marker-end="url(#arrow)"/>
-  <path d="M 322 96 C 312 128, 262 128, 240 96" fill="none" stroke="#748794" stroke-opacity="0.7" stroke-width="1.6" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
-  <circle cx="232" cy="80" r="12" fill="#748794" fill-opacity="0.55"/>
-  <circle cx="326" cy="86" r="12" fill="none" stroke="#4c5d6a" stroke-opacity="0.55" stroke-width="1.6"/>
-  <text x="26" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#3c4a55">IDRL</text>
-  <text x="26" y="140" font-family="'Avenir Next', Avenir, 'Segoe UI', sans-serif" font-size="13" fill="#4c5d6a" fill-opacity="0.85">Inverse reinforcement learning</text>
-  <text x="26" y="158" font-family="'Avenir Next', Avenir, 'Segoe UI', sans-serif" font-size="13" fill="#4c5d6a" fill-opacity="0.85">under delays</text>
+  <path d="M 236 66 C 268 30, 316 44, 322 74" fill="none" stroke="#e699b9" stroke-opacity="0.9" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <path d="M 322 96 C 312 128, 262 128, 240 96" fill="none" stroke="#e699b9" stroke-opacity="0.9" stroke-width="1.6" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+  <circle cx="232" cy="80" r="12" fill="#e699b9" fill-opacity="0.7"/>
+  <circle cx="326" cy="86" r="12" fill="none" stroke="#b25c82" stroke-opacity="0.6" stroke-width="1.6"/>
+  <text x="26" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8f4667">IDRL</text>
+  <text x="26" y="140" font-family="'Avenir Next', Avenir, 'Segoe UI', sans-serif" font-size="13" fill="#8f4667" fill-opacity="0.85">Inverse reinforcement learning</text>
+  <text x="26" y="158" font-family="'Avenir Next', Avenir, 'Segoe UI', sans-serif" font-size="13" fill="#8f4667" fill-opacity="0.85">under delays</text>
 </svg>
