@@ -1,58 +1,57 @@
-/* Dark theme (default) — dark grey + lavender purple */
+/* Dark theme (default) — dusk violet + apricot, sampled from the portrait */
 :root {
-  --background: #2a282d;
-  --background-soft: #3b3642;
-  --surface: #343139;
-  --foreground: #e9e5ef;
-  --muted: #a79fb3;
-  --border: #453f4e;
-  --border-strong: #6b6277;
-  --accent: #b491d9;
-  --accent-strong: #cdb4e8;
-  --accent-soft: rgba(123, 74, 168, 0.3);
-  --link-underline: rgba(180, 145, 217, 0.55);
-  --grid-line: rgba(233, 229, 239, 0.035);
-  --overlay: linear-gradient(90deg, rgba(42, 40, 45, 0.86), rgba(42, 40, 45, 0.96));
-  --card-hover: rgba(123, 74, 168, 0.14);
+  --background: #201d29;
+  --background-soft: #2f2a3c;
+  --surface: #282333;
+  --foreground: #ece7f3;
+  --muted: #a89fbb;
+  --border: #3a3348;
+  --border-strong: #5d5474;
+  --accent: #e59d80;
+  --accent-strong: #f2bda6;
+  --accent-soft: rgba(186, 104, 74, 0.3);
+  --link-underline: rgba(229, 157, 128, 0.55);
+  --grid-line: rgba(236, 231, 243, 0.035);
+  --overlay: linear-gradient(90deg, rgba(32, 29, 41, 0.86), rgba(32, 29, 41, 0.96));
+  --card-hover: rgba(186, 104, 74, 0.14);
   --card-soft: rgba(255, 255, 255, 0.04);
-  --card-soft-hover: rgba(123, 74, 168, 0.18);
-  --pill-border: rgba(180, 145, 217, 0.35);
-  --pill-bg: rgba(123, 74, 168, 0.26);
+  --card-soft-hover: rgba(186, 104, 74, 0.18);
+  --pill-border: rgba(229, 157, 128, 0.32);
+  --pill-bg: rgba(186, 104, 74, 0.22);
   --chip-bg: rgba(255, 255, 255, 0.06);
   --panel: rgba(255, 255, 255, 0.045);
-  --logo-chip: #f2f0f5;
-  --shadow-color: rgba(0, 0, 0, 0.45);
+  --logo-chip: #f3f0f6;
+  --shadow-color: rgba(0, 0, 0, 0.5);
   --shadow: 0 16px 44px var(--shadow-color);
-  --portrait-shadow: 0 14px 34px rgba(0, 0, 0, 0.4);
+  --portrait-shadow: 0 14px 34px rgba(0, 0, 0, 0.45);
   color-scheme: dark;
 }
-
-/* Light theme — white + pink (#FFFFFF / #E699B9) */
+/* Light theme — warm white + terracotta (#FFFAF6 / #AD5A3A) */
 :root[data-theme="light"] {
-  --background: #ffffff;
-  --background-soft: #f9e7f0;
-  --surface: #fffcfe;
-  --foreground: #373737;
-  --muted: #857581;
-  --border: #eddce6;
-  --border-strong: #373737;
-  --accent: #e699b9;
-  --accent-strong: #b25c82;
-  --accent-soft: #f7dce8;
-  --link-underline: rgba(230, 153, 185, 0.7);
-  --grid-line: rgba(178, 92, 130, 0.05);
-  --overlay: linear-gradient(90deg, rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.96));
-  --card-hover: rgba(247, 220, 232, 0.4);
-  --card-soft: rgba(247, 220, 232, 0.22);
-  --card-soft-hover: rgba(247, 220, 232, 0.5);
-  --pill-border: rgba(178, 92, 130, 0.3);
-  --pill-bg: rgba(247, 220, 232, 0.75);
-  --chip-bg: rgba(247, 220, 232, 0.3);
-  --panel: rgba(247, 220, 232, 0.22);
+  --background: #fffaf6;
+  --background-soft: #fbe9dd;
+  --surface: #fffdfa;
+  --foreground: #34292b;
+  --muted: #8a7369;
+  --border: #f1ded1;
+  --border-strong: #34292b;
+  --accent: #ad5a3a;
+  --accent-strong: #96482f;
+  --accent-soft: #fbe4d6;
+  --link-underline: rgba(173, 90, 58, 0.65);
+  --grid-line: rgba(150, 72, 47, 0.05);
+  --overlay: linear-gradient(90deg, rgba(255, 250, 246, 0.86), rgba(255, 250, 246, 0.96));
+  --card-hover: rgba(251, 228, 214, 0.45);
+  --card-soft: rgba(251, 228, 214, 0.25);
+  --card-soft-hover: rgba(251, 228, 214, 0.55);
+  --pill-border: rgba(150, 72, 47, 0.28);
+  --pill-bg: rgba(251, 228, 214, 0.8);
+  --chip-bg: rgba(251, 228, 214, 0.35);
+  --panel: rgba(251, 228, 214, 0.25);
   --logo-chip: #ffffff;
-  --shadow-color: rgba(178, 92, 130, 0.14);
+  --shadow-color: rgba(150, 72, 47, 0.14);
   --shadow: 0 16px 44px var(--shadow-color);
-  --portrait-shadow: 0 14px 34px rgba(178, 92, 130, 0.12);
+  --portrait-shadow: 0 14px 34px rgba(150, 72, 47, 0.12);
   color-scheme: light;
 }
 
