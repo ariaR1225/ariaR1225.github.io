@@ -263,6 +263,17 @@ h1 {
   filter: saturate(0.92);
 }
 
+.funsies {
+  display: grid;
+  gap: 18px;
+}
+
+.funsies-copy {
+  display: grid;
+  align-content: start;
+  gap: 10px;
+}
+
 .section {
   margin-top: 46px;
 }
@@ -898,6 +909,11 @@ details[open] .summary-closed {
 
   .compact-grid {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .funsies {
+    grid-template-columns: minmax(0, 1fr) 220px;
+    align-items: start;
   }
 
   .project-hero {
