@@ -1,0 +1,185 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=0.9in,top=0.8in]{geometry}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+\hypersetup{colorlinks=true,urlcolor=blue,linkcolor=blue}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+% Section headings: bold caps with a rule underneath
+\titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\vspace{-0.6em}\rule{\linewidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{0.9em}{0.5em}
+
+% Content blocks are indented under each heading
+\newenvironment{block}{\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt\itemsep=0pt\topsep=0pt}\item[]}{\end{list}}
+
+% Dot bullets, as in the template
+\newenvironment{bullets}{\begin{itemize}[label=$\cdot$,leftmargin=0.9em,itemsep=0pt,parsep=0pt,topsep=-0.3em]}{\end{itemize}\vspace{0.55em}}
+
+% \entry{Org}{Dates}{Role}{Location}
+\newcommand{\entry}[4]{%
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X r@{}}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\par\vspace{0.3em}}
+\newcommand{\me}{\textbf{Zhian Ruan}}
+\newcommand{\paper}[1]{\href{#1}{[Paper]}}
+
+\begin{document}
+
+\begin{center}
+  {\bfseries\fontsize{24}{28}\selectfont ZHIAN (ARIA) RUAN}\\[0.6em]
+  \href{https://ariar1225.github.io/}{https://ariar1225.github.io/} $|$ ariaruan@stanford.edu $|$
+  \href{https://github.com/ariaR1225}{GitHub} $|$
+  \href{https://www.linkedin.com/in/aria-ruan-11055a201/}{LinkedIn}
+\end{center}
+
+\section{Education}
+\begin{block}
+\entry{Stanford University}{09/2026-now}{M.S. in Electrical Engineering, Advisor: Prof. Shuran Song}{}
+\entry{Northwestern University}{09/2022-06/2025}{B.S. in Mechanical Engineering, Concentration in Robotics, Magna Cum Laude}{GPA 3.947/4.0}
+\entry{University of Illinois Urbana-Champaign}{08/2020-05/2022}{B.S. in Mechanical Engineering, transferred to Northwestern University}{GPA 4.00/4.00}
+\end{block}
+
+\section{Research Interest}
+\begin{block}
+My research lies at the intersection of robot learning and system integration. I focus on synergizing
+hardware--software--learning co-design, multimodal model architectures, and reinforcement learning to
+enable robust, adaptive, and generalizable robot policies, tightly integrating sensing, learning, and
+control into efficient, reliable, ready-to-deploy robotic systems for the real world.
+\end{block}
+
+\section{Publications}
+\begin{enumerate}[leftmargin=2.6em,itemsep=0.5em,topsep=0pt]
+  \item Xiaomeng Xu, Han Zhang, \me, Xiaofeng Guo, Jinkun Cao, Ruihan Yang, Carmelo Sferrazza,
+        Shuran Song, Guanya Shi, \textit{PanTact: Teaching Whole-Body Dexterity with a Wearable Contact
+        Interface.} arXiv preprint (2026); also at the CoRL 2026 Workshops on Contact-Rich
+        Loco-Manipulation and Scaling H2R. \paper{https://arxiv.org/abs/2610.12558}
+        \href{https://pantact.github.io/}{[Webpage]}
+  \item Anthony Goeckner, Yao Liu, \me, Alessandro Pinto, Qi Zhu, \textit{Quiet Multi-Agent Systems via
+        Predictive World Modeling and Selective Communications.} Under review.
+  \item Simon Sinong Zhan, Philip Wang, Yao Liu, Yiyan Peng, Yiqi Lyu, Zinan Wang, Qineng Wang,
+        \me, Xiangyu Shi, Xinyu Cao, Frank Yang, Zhenyang Ni, Kangrui Wang, Ruohan Zhang, Huajie Shao,
+        Manling Li, Qi Zhu, \textit{SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of
+        Foundation Model-based Embodied Agents.} Neural Information Processing Systems, Evaluations \&
+        Datasets Track (NeurIPS 2026). \paper{https://arxiv.org/abs/2510.12985}
+  \item \me, Yizhi Zhou, \textit{Distributed Invariant Unscented Kalman Filter based on Inverse
+        Covariance Intersection with Intermittent Measurements.} American Control Conference (ACC 2026).
+        \paper{https://arxiv.org/abs/2409.17997}
+  \item Simon Sinong Zhan, Qingyuan Wu, \me, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao,
+        Chao Huang, Qi Zhu, \textit{Inverse Delayed Reinforcement Learning.} arXiv preprint (2024).
+        \paper{https://arxiv.org/abs/2412.02931}
+\end{enumerate}
+
+\section{Research Experience}
+\begin{block}
+\entry{Robotics and Embodied Artificial Intelligence Lab (REAL), Stanford University}{03/2026-now}{Advisor: Prof. Shuran Song}{Stanford, CA}
+\begin{bullets}
+  \item Force-sensing UMI data collection and diffusion policies for whole-body mobile manipulation
+\end{bullets}
+\entry{Design Automation of Intelligent Systems (IDEAS) Lab, Northwestern University}{06/2024-06/2025}{Advisor: Prof. Qi Zhu}{Evanston, IL}
+\begin{bullets}
+  \item LLM embodied-agent safety evaluation, inverse delayed RL, and quiet multi-agent planning
+\end{bullets}
+\entry{Neurorehabilitation and Neural Engineering Lab, Shirley Ryan AbilityLab}{06/2023-08/2023}{Advisor: Dr. Jos\'e L. Pons}{Chicago, IL}
+\begin{bullets}
+  \item Transparency control for a lower-limb exoskeleton, later part of a \href{https://www.science.org/doi/10.1126/scirobotics.adz9628}{Science Robotics paper}
+\end{bullets}
+\entry{Center for Robotics and Biosystems, Northwestern University}{03/2023-08/2023}{Advisor: Prof. Malcolm MacIver}{Evanston, IL}
+\begin{bullets}
+  \item 4\,m/s embedded line-following robot with PID control and a Wi-Fi command link
+\end{bullets}
+\entry{Center for Bionics, Shirley Ryan AbilityLab}{08/2022-06/2023}{Advisor: Dr. R. James Cotton}{Chicago, IL}
+\begin{bullets}
+  \item Gait analysis from EMG muscle synergies via non-negative matrix factorization
+\end{bullets}
+\entry{Human Dynamics and Controls Lab, University of Illinois Urbana-Champaign}{07/2021-07/2022}{Advisor: Prof. Elizabeth T. Hsiao-Wecksler}{Urbana, IL}
+\begin{bullets}
+  \item EMG database and quantitative measures of abnormal muscle behavior in MATLAB
+\end{bullets}
+\end{block}
+
+\section{Professional Experience}
+\begin{block}
+\entry{RoboForce}{10/2025-now}{Member of Technical Staff, Robotics}{Milpitas, CA}
+\begin{bullets}
+  \item Led end-of-arm tooling (EOAT) and data collection system design for model training, reducing camera
+        latency and enabling cross-platform time synchronization
+  \item Validated and brought up perception and localization sensors, including cameras, LiDAR, motion capture,
+        and VIO, across lighting and terrain conditions
+  \item Selected and tested joint motors, and led robot bringup with ROS 2 device drivers in C++ over RS485,
+        CANopen, and EtherCAT (CiA 402) with a thread-safe, real-time communication stack
+  \item Built a force-torque sensing (FTS) embedding for a $\pi_{0.5}$ torquing policy: a causal TCN/GRU encoder over
+        2\,s of native 200\,Hz wrench, aligned across asynchronous sensor, camera, and action clocks, compressing contact
+        into a bounded 6-D embedding that reaches 0.90 macro recall on contact phase (+0.17 over a no-memory baseline)
+        across 1,900+ sessions
+\end{bullets}
+
+\entry{Tesla, Energy R\&D Test Infrastructure}{07/2025-10/2025}{Test Hardware Controls Engineer}{Palo Alto, CA}
+\begin{bullets}
+  \item Engineered a centralized Python resource manager for test infrastructure, automating testing across 3
+        energy product lines with multi-site coordination
+  \item Designed a full-stack system with a REST API frontend for remote control of test setups and a real-time
+        PLC backend over Modbus, unifying manual and automated workflows
+\end{bullets}
+
+\textbf{Internships:} Ginkgo Bioworks, system integration \& computer vision (06/2024-09/2024);
+Tesla Power Electronics, software automation (01/2024-05/2024)
+\end{block}
+
+\section{Selected Projects}
+\begin{block}
+\entry{Robotic Dexterity Hand, Embedded Control Software}{01/2025-06/2025}{Advisor: Prof. Kevin Lynch, HAND ERC}{}
+\begin{bullets}
+  \item Led control software for an 8-DOF tendon-driven hand (20-student team): SPI Hall-effect sensing and CAN
+        across 9 MCUs, enabling 10\,kHz field-oriented BLDC control with space-vector PWM
+  \item Built motion-control libraries with forward/inverse kinematics and null-space optimization, reaching
+        $<$2\,mm positioning accuracy, $<$0.05\,s force settling time, and 10\,Hz position bandwidth on series-elastic actuators
+  \item Created a MediaPipe hand-tracking teleoperation GUI with ROS 2 and a URDF digital twin in RViz
+\end{bullets}
+
+
+\end{block}
+
+\section{Awards}
+\begin{block}
+Magna Cum Laude, Northwestern University \hfill 06/2025\\
+McCormick School of Engineering High Honors, Northwestern University \hfill 2023-2024\\
+McCormick School of Engineering Honors, Northwestern University \hfill 2022-2023\\
+Durabird Eastern Collegiate Badminton Championships, Division 2B Winner \hfill 2023\\
+Edmund J. James Scholar \& Dean's List, Grainger College of Engineering, UIUC \hfill 2020-2022\\
+Tau Beta Pi, National Engineering Honor Society \hfill 2021\\
+Alpha Lambda Delta, National Honor Society of First-Year Success \hfill 2021
+\end{block}
+
+\section{Services}
+\begin{block}
+Reviewer of CoRL 2026 Workshop on \href{https://scaling-h2r-corl.github.io/}{Scaling H2R}\par\vspace{0.4em}
+Reviewer of IEEE RO-MAN 2026\par\vspace{0.4em}
+Grader of GEN\_ENG 205-3: Engineering Analysis 3 (Modeling and Dynamics), Northwestern (Spring 2025)\par\vspace{0.4em}
+Course assistant of CS 111: Fundamentals of Computer Programming I, Northwestern (Fall 2023)\par\vspace{0.4em}
+Student consultant for Chicago Field Studies, Student Internship Program (Fall 2023)\par\vspace{0.4em}
+Executive of the Northwestern Badminton Club, 300+ members (2023)\par\vspace{0.4em}
+Executive board of the Tau Beta Pi District Conference, 30+ chapters (2022)\par\vspace{0.4em}
+Mentor for FRC \href{https://www.thebluealliance.com/team/6487}{Team 6487} (2020-now)
+\end{block}
+
+\section{Technical Skills}
+\begin{block}
+\begin{tabularx}{\linewidth}{@{}l >{\raggedright\arraybackslash}X@{}}
+\textbf{Computer Languages} & Python, C/C++, Java, MATLAB/Simulink, SQL \\
+\textbf{Robotics} & ROS 2, MuJoCo, IsaacGym, Gazebo, RViz, forward/inverse kinematics, SLAM, PID \\
+\textbf{Tools \& Libraries} & PyTorch, TensorFlow, NumPy, SciPy, OpenCV, Git, Docker, Linux \\
+\textbf{Hardware} & CAD, 3D printing, PCB design, PLC, microcontrollers (ARM Cortex-M4/M7), CAN, EtherCAT, RS485, SPI, I2C, UART \\
+\end{tabularx}
+\end{block}
+
+\end{document}
