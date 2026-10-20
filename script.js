@@ -73,7 +73,7 @@ if (researchThumbs.length) {
 
   const openLightbox = (img) => {
     lastTrigger = img;
-    lightboxImg.src = img.currentSrc || img.src;
+    lightboxImg.src = img.dataset.full || img.currentSrc || img.src;
     lightboxImg.alt = img.alt;
     lightbox.hidden = false;
     document.body.style.overflow = "hidden";
