@@ -633,6 +633,26 @@ details[open] .summary-closed {
   display: none;
 }
 
+.reviewer-roles {
+  border-bottom: 1px solid var(--border);
+}
+
+.reviewer-heading {
+  padding: 10px 12px;
+  color: var(--foreground);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.reviewer-count {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.reviewer-roles .news-row {
+  padding-left: 28px;
+}
+
 .skills-grid {
   display: grid;
   gap: 12px;
