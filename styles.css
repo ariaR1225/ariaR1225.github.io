@@ -729,6 +729,11 @@ details[open] .summary-closed {
   gap: 12px;
 }
 
+.internships {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+
 .grid-divider {
   display: flex;
   grid-column: 1 / -1;
